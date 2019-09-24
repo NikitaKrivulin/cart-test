@@ -1,0 +1,233 @@
+.wrapper-body {
+   max-width: 1500px;
+   margin: 0 auto;
+   display: flex;
+}
+
+.pre-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pre-header__accessibility {
+    color: black;
+    text-decoration:none;
+}
+
+.pre-header__comparison {
+    color: black;
+    text-decoration:none;
+}
+
+.pre-header__link {
+    color: black;
+    text-decoration:none;
+}
+.pre-header__links {
+  margin-left: auto;
+  display: flex;
+  flex-direction: row;
+  
+
+
+}
+
+.header {
+   width: 100%;}
+
+.two-header {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+
+}
+.two-header__input {
+   text-decoration: none;
+}   
+.two-header__links {
+   margin-left: auto;
+}
+
+.header-menu {
+   display: flex;
+   justify-content: space-between;
+   text-decoration: none;
+   text-transform: uppercase;
+   
+}
+
+.header-menu__Katalog {
+ text-decoration: none;
+}
+
+.header-menu__O_kompanii{
+  text-decoration: none;
+}
+
+.header-menu__OMS {
+  text-decoration: none;
+}
+
+.header-menu__Stocks {
+  text-decoration: none;
+}
+
+.header-menu__Retail_network {
+  text-decoration: none;
+}
+
+.header-menu__Partners {
+  text-decoration: none;
+}
+
+.header-menu__Contacts {
+  text-decoration: none;
+}
+
+.header-menu__Point_selection {
+  text-decoration: none;
+} 
+
+.header-menu__registration {
+  text-decoration: none;
+  color: black;
+}
+
+.header-menu__basket {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-menu {
+ display: flex;
+ justify-content:space-between;
+ text-transform:uppercase;
+ margin: 50px;
+
+
+}
+
+.footer-menu__O_kompanii {
+  text-decoration: none;
+}
+
+.footer-menu__OMS {
+  text-decoration: none;
+}
+
+.footer-menu__Stocks {
+  text-decoration: none;
+} 
+
+.footer-menu__Retail_network {
+  text-decoration: none;
+}
+
+.footer-menu__Partners {
+  text-decoration: none;
+}
+
+.footer-menu__Contacts {
+  text-decoration: none;
+}
+
+.footer-menu__Point_selection {
+  text-decoration: none;
+}
+
+.footer_1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer_1_1{
+   font-size: 10px;
+}
+
+.footer__center {
+  margin: 10px;
+}
+
+.footer__address {
+  margin: 10px;
+}
+
+.footer__Info {
+  margin: 10px;
+}
+
+.footer_1_2{
+   font-size: 10px;
+}
+
+.footer__shop {
+   color:purple;
+   margin: 10px;
+}
+
+.footer__Sevsk {
+   margin: 10px;
+}
+
+.footer__Arh {
+   margin: 10px;
+}
+
+.footer_1_3{
+   font-size: 10px;
+}
+
+.footer__kontakt{
+   color: purple;
+   margin: 10px;
+}
+
+.footer__phone {
+   margin: 10px;
+}
+
+.footer__mail {
+   margin: 10px;
+   color: blue;
+}
+
+.footer__seti {
+  margin: 5px 10px;
+}
+
+
+.footer_1_4{
+   font-size: 10px;
+}
+
+.footer__podpiska {
+   margin: 10px;
+
+}
+
+.footer__input {
+   margin: 10px;
+}
+
+.icon_input {
+   top:5px;
+}
+
+.footer__oferta {
+   margin: 10px;
+}
+
+.footer__privacy {
+   margin: 10px;
+}
+
+.footer_2 {
+   display: flex;
+   justify-content: space-between;
+}
+
+.footer__2_2 {
+   display: flex;
+   flex-direction:row;
+}
