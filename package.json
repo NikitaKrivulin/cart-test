@@ -6,7 +6,9 @@
   "author": "NikitaKrivulin <krivulin.nikita@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
+    "gulp-html-beautify": "^1.0.1",
     "gulp-pug": "^4.0.1"
   }
 }
